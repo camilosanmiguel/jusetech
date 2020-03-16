@@ -1,7 +1,6 @@
 # JuseTech
 
-Descripcion del proyecto
-
+proyecto de ventas online
 # Pasos 
 
 
