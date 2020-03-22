@@ -8,7 +8,7 @@ Probado en Ubuntu 19.04
 
 Instalar los siguientes programas
 
-    ~# apt install python3-pip git
+    ~# apt install git python3-pip mariadb-server mariadb-client python3.6-dev libmysqlclient-dev
     ~# pip3 install virtualenv
 
 Clonar el repositorio
@@ -44,3 +44,6 @@ Configurar entorno desarrollo
 Iniciar servidor
 	
 	 ~$ flask run
+	 
+Documentacion	 
+https://flask-mysqldb.readthedocs.io/en/latest/
